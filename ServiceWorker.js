@@ -1,9 +1,9 @@
 const cacheName = "MLA-Jumping booble-1.1.0";
 const contentToCache = [
-    "Build/Buld.loader.js",
-    "Build/Buld.framework.js",
-    "Build/Buld.data",
-    "Build/Buld.wasm",
+    "Build/Web Test.loader.js",
+    "Build/Web Test.framework.js",
+    "Build/Web Test.data",
+    "Build/Web Test.wasm",
     "TemplateData/style.css"
 
 ];
